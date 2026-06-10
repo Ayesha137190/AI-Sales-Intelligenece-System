@@ -223,28 +223,6 @@ Benefits:
 - Reduced Stock-Outs
 - Improved Business Decisions
 
----
-
-# 📸 Screenshots
-
-## Login Page
-
-![Login](screenshots/login.png)
-
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-## Forecasting
-
-![Forecasting](screenshots/forecasting.png)
-
-## Inventory Management
-
-![Inventory](screenshots/inventory.png)
-
----
-
 # 🔒 Security Features
 
 - Environment Variable Support
